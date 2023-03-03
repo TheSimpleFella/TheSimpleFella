@@ -7,9 +7,10 @@ Hi there I'm Michael.
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Installation](https://github.com/)
   - [osTicket: Post-Installation Configuration](https://github.com/)
-  - [AZURE: Virtual Machine Creation Examples](https://github.com/)
+  
 - <b>Microsoft Azure</b>
   - [Network Watcher Topology](https://github.com/)
+  - [AZURE: Virtual Machine Creation Examples](https://github.com/)
 
 <h2>🤳Connect with me:</h2>
 
