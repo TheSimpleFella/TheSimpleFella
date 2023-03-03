@@ -10,7 +10,7 @@ Hi there I'm Michael.
   
 - <b>Microsoft Azure</b>
   - [Network Watcher Topology](https://github.com/)
-  - [AZURE: Virtual Machine Creation Examples](https://github.com/)
+  - [Azure: Virtual Machine Creation Examples](https://github.com/)
 
 <h2>🤳Connect with me:</h2>
 
