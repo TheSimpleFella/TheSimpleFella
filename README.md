@@ -9,10 +9,10 @@ Hi there I'm Michael.
   
   
 - <b>Microsoft Azure</b>
+  - [Implementing Active Directory](https://github.com/TheSimpleFella/Active-Directory.git)
   - [Network Watcher Topology](https://github.com/)
   - [Azure: Virtual Machine Creation Examples](https://github.com/)
-  - [Implementing Active Directory](https://github.com/TheSimpleFella/Active-Directory.git)
-
+ 
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Michael | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
