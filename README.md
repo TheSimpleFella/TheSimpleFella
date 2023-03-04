@@ -6,11 +6,12 @@ Hi there I'm Michael.
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Installation](https://github.com/)
-  - [Implementing Active Directory](https://github.com/)
+  
   
 - <b>Microsoft Azure</b>
   - [Network Watcher Topology](https://github.com/)
   - [Azure: Virtual Machine Creation Examples](https://github.com/)
+  - [Implementing Active Directory](https://github.com/)
 
 <h2>🤳Connect with me:</h2>
 
