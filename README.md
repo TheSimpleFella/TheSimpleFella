@@ -6,7 +6,7 @@ Hi there I'm Michael.
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Installation](https://github.com/)
-  - [osTicket: Post-Installation Configuration](https://github.com/)
+  - [Implementing Active Directory](https://github.com/)
   
 - <b>Microsoft Azure</b>
   - [Network Watcher Topology](https://github.com/)
