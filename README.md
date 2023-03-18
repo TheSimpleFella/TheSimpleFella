@@ -7,6 +7,7 @@ Hi I'm Michael.
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Installation](https://github.com/TheSimpleFella/osticket-installation.git)
   - [osTicket: Password Reset Lab](https://github.com/TheSimpleFella/osTicket-Password-Reset.git)
+  - [osTicket: Setting Up SLA Lab](https://github.com/TheSimpleFella/Setting-up-SLA-in-os-Ticket-.git)
   
   
 - <b>Microsoft Azure</b>
