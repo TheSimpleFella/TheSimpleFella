@@ -4,7 +4,7 @@ Hi I'm Michael.
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-LinkedIn Click Here: (https://linkedin.com/in/michael-l-211413265?original_referer=)
+Linkedin Click Here: (https://linkedin.com/in/michael-l-211413265?original_referer=)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Installation](https://github.com/TheSimpleFella/osticket-installation.git)
