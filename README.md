@@ -12,9 +12,7 @@ Linkedin Click Here: (https://linkedin.com/in/michael-l-211413265?original_refer
   
   
 - <b>Microsoft Azure</b>
-  - [Implementing Active Directory](https://github.com/TheSimpleFella/Active-Directory.git)
-  - [Network Watcher Topology](https://github.com/TheSimpleFella/Network-Watcher-Topology.git)
-  - [Azure: Virtual Machine Creation Examples](https://github.com/)
+    - [Azure: Virtual Machine Creation Examples](https://github.com/)
  
 <h2>🤳Connect with me:</h2>
 
