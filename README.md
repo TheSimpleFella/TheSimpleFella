@@ -14,6 +14,7 @@ Linkedin Click Here: (https://linkedin.com/in/michael-l-211413265?original_refer
 - <b>Microsoft Azure</b>
     - [Azure: Virtual Machine Creation Examples](https://github.com/)
     - [Azure: Active Directory Domain Services](https://github.com/TheSimpleFella/Deploying-Active-Directory.git)
+    - [Azure: Active Directory Domain Services: Password Resetting]()
  
 <h2>🤳Connect with me:</h2>
 
