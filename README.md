@@ -14,6 +14,7 @@ Linkedin Click Here: (https://linkedin.com/in/michael-l-211413265?original_refer
 - <b>Microsoft Azure</b>
     - [Azure: Active Directory Domain Services](https://github.com/TheSimpleFella/Deploying-Active-Directory.git)
     - [Azure: Active Directory Domain Services: Setting the DNS](https://github.com/TheSimpleFella/DNS-Setting.git)
+    - [Azure: Creating A Virtual Machine ](https://github.com/TheSimpleFella/Creating-A-Virtual-Machine-.git)
  
 <h2>🤳Connect with me:</h2>
 
