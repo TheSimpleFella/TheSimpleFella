@@ -15,6 +15,9 @@ Linkedin Click Here: (https://linkedin.com/in/michael-l-211413265?original_refer
     - [Azure: Active Directory Domain Services](https://github.com/TheSimpleFella/Deploying-Active-Directory.git)
     - [Azure: Active Directory Domain Services: Setting the DNS](https://github.com/TheSimpleFella/DNS-Setting.git)
     - [Azure: Creating A Virtual Machine ](https://github.com/TheSimpleFella/Creating-A-Virtual-Machine-.git)
+
+- <b>Linux OS</b>
+  - [Linux Virtual Machine: Installing Mozilla Firefox] (https://github.com/TheSimpleFella/Installing-Firefox-to-Linux.git)
  
 <h2>🤳Connect with me:</h2>
 
@@ -23,6 +26,3 @@ Linkedin Click Here: (https://linkedin.com/in/michael-l-211413265?original_refer
 
 [linkedin]: https://linkedin.com/in/michael-l-211413265
 [Youtube]: http://youtube.com/@mike-km2sg
-
-- <b>Linux OS</b>
-  - [Linux Virtual Machine: Installing Mozilla Firefox] (https://github.com/TheSimpleFella/Installing-Firefox-to-Linux.git)
